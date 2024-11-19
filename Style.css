@@ -19,6 +19,7 @@ i{
     overflow: hidden;
     width: 80px;
     max-height: 100vh;
+    max-height: 100vh;
     flex-direction: column;
     justify-content: space-between;
     padding: 20px 0px 0px 0px;
