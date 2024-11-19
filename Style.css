@@ -253,4 +253,13 @@ li{
     input{
         padding-left: -20px;
     }
+    .Dashboard .Header .Top-SideBar i{
+        font-size: 2em;
+    }
+    .Dashboard .Header .Top-SideBar b{
+        font-size: 1em;
+    }
+    .Data-Table{
+        display: none;
+    }
 }
